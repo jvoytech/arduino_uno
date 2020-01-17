@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATmega16U2-MU
+D 16MHz, 8kB Flash, 512B SRAM, 512B EEPROM, QFN-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf
+$ENDCMP
+#
+$CMP ATmega8L-8PU
+D 8MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, DIP-28
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega8L_extraInfo-8PU
+D 8MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, DIP-28
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf
+$ENDCMP
+#
+$CMP LMV358IDR
+D IC OPAMP GP 2 CIRCUIT 8SOIC
+K 296-9571-1-ND
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LP2985-33DBVR
+D IC REG LINEAR 3.3V 150MA SOT23-5
+K 296-18476-1-ND
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp2985
+$ENDCMP
+#
+#End Doc Library
